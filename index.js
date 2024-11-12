@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 // Crear el servidor
 const server = http.createServer((req, res) => {
   res.writeHead(200, { 'Content-Type': 'text/plain' });
-  res.end('¡Hola, Mundo!');
+  res.end('Programacion Distribuida AliA');
 });
 
 // Iniciar el servidor en el puerto especificado
