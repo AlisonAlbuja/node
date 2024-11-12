@@ -1,0 +1,6 @@
+# Ignorar la carpeta node_modules
+node_modules
+
+# Ignorar el propio Dockerfile y .dockerignore
+Dockerfile
+.dockerignore
